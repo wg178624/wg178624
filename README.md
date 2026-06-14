@@ -2,15 +2,16 @@
 
 # 王刚 · Wang Gang
 
+**武汉工程大学 · 电子信息工程**  
 **EIE | Semiconductor | Linux**
 
 <a href="https://github.com/wg178624/yudustrum">
   <img src="https://img.shields.io/badge/Featured-羽渡尘%20v7.0-6C7280?style=flat&labelColor=1A1A1A" alt="羽渡尘"/>
 </a>
 <a href="https://github.com/wg178624">
-  <img src="https://img.shields.io/badge/C-1A1A1A?style=flat&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/Python-1A1A1A?style=flat&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Linux-1A1A1A?style=flat&logo=linux&logoColor=white" alt="Linux"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
 </a>
 
 </div>
