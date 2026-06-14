@@ -8,6 +8,7 @@
 <a href="https://github.com/wg178624/yudustrum">
   <img src="https://img.shields.io/badge/Featured-羽渡尘%20v7.0-C84040?style=flat&labelColor=1A1A1A" alt="羽渡尘"/>
 </a>
+<a href="https://img.shields.io/badge/武汉工程大学-1A5276?style=flat" alt="武汉工程大学"/>
 <a href="https://github.com/wg178624">
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
