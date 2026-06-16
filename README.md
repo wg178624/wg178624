@@ -45,13 +45,6 @@ sing-box unified, zero-iptables, nftables SSH lock, 13-day uptime.
 **EIE 学习路线** — Curated 4-stage learning path for Electronics & Information Engineering.  
 `Markdown` `CS自学指南`
 
-### Path
-
-```
-2025  →  PSDC, Penang          Diploma in Electronics Engineering
-2027  →  USM, Penang            Bachelor's (part-time, working)
-     →  Intel / AMD             Semiconductor engineer
-```
 
 ### Contact
 
